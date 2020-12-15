@@ -46,6 +46,7 @@ I'll chat about technology, legal and ethics challenges, interviewing/resumes, O
 
 <!-- BLOG-POST-LIST:START -->
 - [Forecasting Energy Demand & Anomaly Detection](https://indialindsay1.medium.com/identifying-anomalies-in-commercial-energy-consumption-b0e72f569bb2)
+- HackTexas 2017 - Winner of Social Good JP Morgan challenge - [Safely - Tracking Disaster Emergency Response](https://devpost.com/software/safely-ry375t)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
