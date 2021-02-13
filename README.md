@@ -6,7 +6,7 @@ Hi there! I'm Jocelyne, and I'm passionate about breaking down complex problems,
 
 * LinkedIn: <https://www.linkedin.com/in/jocelynewalker/>
 * Languages: Python, R, Java, HTML, SQL  
-* Tools: Microsoft Office, Github, Canva, SAP, Alteryx, Tableau, PowerBI
+* Tools: Microsoft Office, Github, Canva, SAP, Alteryx, Spark, Tableau, PowerBI
 
 #### Code Graveyard Disclaimer ☠️
 
