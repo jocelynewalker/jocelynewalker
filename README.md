@@ -24,23 +24,15 @@ I'll chat about technology, legal and ethics challenges, interviewing/resumes, O
 
 #### My Favorite Projects 💻
 
-* 
-*  
-* 
-
-#### Philanthropic Efforts 🏫
-
-* 
-* 
-* 
+* [What should you post on Insta?](https://github.com/jocelynewalker/text-analytics/blob/main/Assignment3.ipynb) Used image analytics to determine the factors leading to success on Zara's instagram page. 
+* [Food trends in Vietnam's grocery market](https://github.com/jocelynewalker/marketing-analytics) Analyzed store product offerings and gained insight into the factors driving store longevity.   
+* [Visualizing flight delays at ABIA](https://github.com/jocelynewalker/STA380/blob/master/Final_Walker_Seth_Nesfeder_Choudhary.md) In question 2 of this assignment, I used visualization with R ggplot2 to identify flight patterns out of Austin. 
 
 #### Activities & Hobbies
 
-* 
-* 
-* 
-* 
-
+* Run/Row - Catch me out rowing on Mud Lake with [Bay Area Rowing Club](http://www.barchouston.org/) or running the [Seabrook Trails](https://www.seabrooktx.gov/238/Trail-System)
+* Baking - Try some of this [pineapple carrot cake](https://sallysbakingaddiction.com/pineapple-carrot-cake-with-cream-cheese-frosting/) sometime!
+* Reading - All-time favorite book is Les Miserables. But send me some nerd book recommendations! 
 
 ## 📕 Latest Blog Posts
 
